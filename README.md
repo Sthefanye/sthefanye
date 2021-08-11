@@ -4,7 +4,7 @@
 
 <li> 👩‍🎓  Curso Ciências da computação na <strong> <a href="https://www.uninorte.com.br/">Uninorte</a> </strong> </li>
 <li> 💻 Estou estudando para me tornar uma Desenvolvedora Mobile. </li>
-<li> 🧠 Atualmente estou aprendendo 𝖧𝖳𝖬𝖫/𝖢𝖲𝖲/JavaScript </li>
+<li> 🧠 Atualmente estou aprendendo Kotlin </li>
 
 <br>
 
