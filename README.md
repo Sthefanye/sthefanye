@@ -26,6 +26,7 @@
      <a href="https://www.python.org/" title ="Python"><img align="center" alt="Sthe-Python" height="50" width="50" hspace="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"></a>
      <a href="https://developer.android.com/studio" title ="Android Studio"><img align="center" alt="Sthe-Android-Studio" height="55" width="50" hspace="20" src="https://static.wikia.nocookie.net/logopedia/images/d/db/Android_Studio_Icon_2021.svg/revision/latest/scale-to-width-down/200?cb=20210305211354"></a>
      <a href="https://code.visualstudio.com/" title ="Visual Studio Code"><img align="center" alt="Sthe-VSCode" height="55" width="50" hspace="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"></a>
+     <a href="https://www.jetbrains.com/pt-br/idea//" title ="IntelliJ"><img align="center" alt="Sthe-VSCode" height="55" width="50" hspace="20" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"></a>
   </div>
   </div>
 <br/>
