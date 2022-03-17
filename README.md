@@ -3,7 +3,7 @@
 <br/>
 
 <li> 👩‍🎓  Curso Ciências da computação na <strong> <a href="https://www.uninorte.com.br/">Uninorte</a> </strong> </li>
-<li> 🧠 Atualmente sou Desenvolvedora Mobile Nativa -> Kotlin </li>
+<li> 🤓  Atualmente sou Desenvolvedora Mobile </li>
 
 <br>
 
@@ -20,7 +20,7 @@
   <div style="display: inline_block" align="center"><br>
     <a href="https://kotlinlang.org/" title ="Kotlin" ><img align="center" alt="Sthe-Kotlin" height="45" width="45" hspace="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1024px-Kotlin_Icon.png"></a>  
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title ="JavaScript"><img align="center" alt="Sthe-Js" height="50" width="50" hspace="20" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"></a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title ="HTML"><img align="center" alt="Sthe-HTML" height="50" width="50" hspace="20" src="https://image.flaticon.com/icons/png/512/174/174854.png"><a/>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title ="HTML"><img align="center" alt="Sthe-HTML" height="50" width="50" hspace="20" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png"><a/>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title ="CSS"><img align="center" alt="Sthe-CSS" height="50" width="50" hspace="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><a/>
      <a href="https://www.python.org/" title ="Python"><img align="center" alt="Sthe-Python" height="50" width="50" hspace="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"></a>
      <a href="https://developer.android.com/studio" title ="Android Studio"><img align="center" alt="Sthe-Android-Studio" height="55" width="50" hspace="20" src="https://static.wikia.nocookie.net/logopedia/images/d/db/Android_Studio_Icon_2021.svg/revision/latest/scale-to-width-down/200?cb=20210305211354"></a>
