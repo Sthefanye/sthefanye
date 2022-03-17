@@ -3,8 +3,7 @@
 <br/>
 
 <li> 👩‍🎓  Curso Ciências da computação na <strong> <a href="https://www.uninorte.com.br/">Uninorte</a> </strong> </li>
-<li> 💻 Estou estudando para me tornar uma Desenvolvedora Mobile. </li>
-<li> 🧠 Atualmente estou aprendendo Kotlin </li>
+<li> 🧠 Atualmente sou Desenvolvedora Mobile Nativa -> Kotlin </li>
 
 <br>
 
