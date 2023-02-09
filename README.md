@@ -2,7 +2,6 @@
 
 <br/>
 
-<li> 👩‍🎓  Curso Ciências da computação na <strong> <a href="https://www.uninorte.com.br/">Uninorte</a> </strong> </li>
 <li> 🤓  Atualmente sou Junior Engineer Android </li>
 
 <br>
