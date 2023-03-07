@@ -5,6 +5,13 @@
 <li> 🤓  Atualmente sou Junior Engineer Android </li>
 
 <br>
+
+<p align="center">
+  <a href="https://github.com/Sthefanye" target="_blank">
+    <img height="180em" src="https://github-readme-stats-sthefanye.vercel.app/api?username=Sthefanye&show_icons=true&theme=bear&include_all_commits=true&count_private=false"/>
+    <img height="150em" src="https://github-readme-stats-sthefanye.vercel.app/api/top-langs/?username=Sthefanye&layout=compact&langs_count=7&theme=bear"/>
+  </a>
+</p>
   
 <h2></h2>
 
