@@ -20,6 +20,7 @@
   <div style="display: inline_block" align="center"><br>
     <a href="https://kotlinlang.org/" title ="Dart" ><img align="center" alt="Sthe-Dart" height="53" width="53" hspace="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"></a>  
     <a href="https://kotlinlang.org/" title ="Flutter" ><img align="center" alt="Sthe-Flutter" height="56" width="56" hspace="20" src="https://cdn-images-1.medium.com/max/1200/1*ilC2Aqp5sZd1wi0CopD1Hw.png"></a>  
+     <a href="https://kotlinlang.org/" title ="Java" ><img align="center" alt="Sthe-Java" height="65" width="65" hspace="20" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"></a>  
    <a href="https://kotlinlang.org/" title ="Kotlin" ><img align="center" alt="Sthe-Kotlin" height="45" width="45" hspace="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1024px-Kotlin_Icon.png"></a>  
      <a href="https://developer.android.com/studio" title ="Android Studio"><img align="center" alt="Sthe-Android-Studio" height="55" width="50" hspace="20" src="https://static.wikia.nocookie.net/logopedia/images/d/db/Android_Studio_Icon_2021.svg/revision/latest/scale-to-width-down/200?cb=20210305211354"></a>
      <a href="https://code.visualstudio.com/" title ="Visual Studio Code"><img align="center" alt="Sthe-VSCode" height="55" width="50" hspace="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"></a>
