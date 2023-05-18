@@ -2,7 +2,7 @@
 
 <br/>
 
-<li> 🤓  Atualmente sou Junior Engineer Android </li>
+<li> 🤓  Atualmente sou Engineer Android </li>
 
 <br>
 
