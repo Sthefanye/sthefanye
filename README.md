@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Sthefanye" target="_blank">
-    <img height="180em" src="https://github-readme-stats-sthefanye.vercel.app/api?username=Sthefanye&show_icons=true&theme=bear&include_all_commits=true&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats-psb21e0vj-sthefanye.vercel.app/api?username=Sthefanye&show_icons=true&theme=bear&include_all_commits=true&count_private=false"/>
     <img height="180em" src="https://github-readme-stats-sthefanye.vercel.app/api/top-langs/?username=Sthefanye&layout=compact&langs_count=7&theme=bear"/>
   </a>
 </p>
