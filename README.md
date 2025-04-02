@@ -10,7 +10,7 @@
   
 <h2></h2>
 
-  <h3 align="center"> Lenguages and Tools </h3>
+  <h3 align="center"> Languages and Tools </h3>
   
   <div style="display: inline_block" align="center"><br>
     <a href="https://kotlinlang.org/" title ="Dart" ><img align="center" alt="Sthe-Dart" height="53" width="53" hspace="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"></a>  
