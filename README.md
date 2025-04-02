@@ -2,7 +2,7 @@
 
 <br/>
 
-<li> 🤓  Atualmente sou DEsenvolvedora Android Pleno </li>
+<li> 🤓  Atualmente sou Desenvolvedora Android Pleno </li>
 
 <br>
 
