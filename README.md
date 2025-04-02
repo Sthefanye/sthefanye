@@ -2,7 +2,7 @@
 
 <br/>
 
-<li> 🤓  Atualmente sou Engineer Android </li>
+<li> 🤓  Atualmente sou DEsenvolvedora Android Pleno </li>
 
 <br>
 
